@@ -72,3 +72,47 @@ body{
     font-size: 50px;
     color: white;
 }
+
+h1{
+    font-size: 30px;
+    color: rgb(173, 141, 99);
+    text-align: center;
+    padding-top: 12px;
+}
+
+#about{
+    background-color: rgb(241, 237, 223);
+    
+    
+}
+.group{
+    display: flex;
+}
+
+#about img{
+    float: left;
+    padding: 25px;
+    margin-left: 15%;
+    border-radius: 50px;
+}
+
+#about p{
+    font-size: 30px;
+    color: rgb(173, 141, 99);
+    float: right;
+    text-align: left;
+    padding: 15px;
+    margin-top: 12%;
+    
+}
+
+#about a{
+    font-size: 40px;
+    color:rgb(134, 107, 71) ;
+    text-decoration: dashed;
+}
+
+#about a:hover{
+    background-color:rgb(134, 107, 71) ;
+    color: rgb(228, 217, 202);
+}
