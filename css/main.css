@@ -1,0 +1,74 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.topNav{
+    overflow: hidden;
+    
+}
+
+
+.topNav p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(173, 141, 99);
+    margin-top: 0;
+    padding: 12px;
+    
+    border-radius: 12px;
+    
+}
+.navBar{
+    background-color: rgb(231, 205, 170);
+    
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 12px;
+    
+    
+}
+.navBar a{
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 12px;
+
+    
+    
+}
+
+.navBar a:hover{
+    background-color: rgb(173, 141, 99) ;
+}
+
+.textOver{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    background-color:rgb(173, 141, 99) ;
+    margin-top: 15px;
+}
+
+.imgHome {
+    width: 40%;
+    margin-top: 12px;
+    
+
+}
+
+.imgTitle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+    color: white;
+}
