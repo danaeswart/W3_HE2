@@ -159,3 +159,69 @@ h1{
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
 }
+
+#contact{
+    background-color:rgb(134, 107, 71) ;
+    padding: 15px;
+    padding-bottom: 40px;
+}
+#contact h1{
+    color: white;
+}
+#contact p{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+#contact a{
+    background-color:rgb(228, 217, 202) ;
+    padding: 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 45%;
+    color:rgb(134, 107, 71) ;
+    font-size: 26px;
+    margin-top: 30px;
+}
+
+#contact a:hover{
+    background-color: rgb(240, 210, 176);
+    color: rgb(43, 34, 17);
+}
+
+.foot{
+    background-color:rgb(240, 210, 176) ;
+    padding: 30px;
+    margin-top: 20px;
+    display: block;
+}
+
+.foot p{
+    font-size: 25px;
+    color:rgb(134, 107, 71)  ;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.foot a{
+    color: rgb(134, 107, 71);
+    text-align: center;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.fot{
+    text-align: center;
+}
+
+.fot a:hover{
+    background-color: rgb(134, 107, 71) ;
+    color: white;
+    border-radius: 20px;
+    padding: 12px;
+}
+}
